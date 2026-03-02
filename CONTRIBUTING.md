@@ -21,4 +21,3 @@
 2. Implement retry mechanisms for email sending
 3. Create more robust token generation
 4. Add rate limiting for verification attempts
-Would you like me to elaborate on any specific aspect of the README or Kafka configuration? I can provide more detailed explanations or help you customize the implementation further.
